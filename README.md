@@ -1,4 +1,4 @@
 Apache-MU-v2
 ======================
 
-Local inet trading
+Local inet trading http://gosbos.os/
