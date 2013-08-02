@@ -1,4 +1,3 @@
-
 #include <string>
 
 std::string cope[63] = {
@@ -11,4 +10,4 @@ std::string cope[63] = {
 
 std::string error[24] = { "i", "ec", "ес", "R", "r", "L", "Ё", "ё", "l", "xy",
 "ху", "Щ", "щ", "Ъ", "ъ", "π", "CC", "СС", "S", "s", "cc", "сс",
-};
+}; 
